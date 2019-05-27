@@ -1,0 +1,24 @@
+tensorflow/lite/experimental/micro/tools/make/gen/sparkfun_edge_cortex-m4/obj/tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/micro_features_generator.o: \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/micro_features_generator.cc \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/micro_features_generator.h \
+ tensorflow/lite/c/c_api_internal.h \
+ tensorflow/lite/experimental/micro/micro_error_reporter.h \
+ tensorflow/lite/core/api/error_reporter.h \
+ tensorflow/lite/experimental/micro/compatibility.h \
+ tensorflow/lite/experimental/micro/debug_log.h \
+ tensorflow/lite/experimental/micro/debug_log_numbers.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/frontend.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/fft.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/micro_model_settings.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/filterbank.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/log_scale.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/noise_reduction.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/pcan_gain_control.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/window.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/frontend_util.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/fft_util.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/filterbank_util.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/log_scale_util.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/noise_reduction_util.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/pcan_gain_control_util.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/window_util.h

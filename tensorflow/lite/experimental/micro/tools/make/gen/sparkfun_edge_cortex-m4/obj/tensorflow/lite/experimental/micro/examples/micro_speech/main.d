@@ -1,0 +1,24 @@
+tensorflow/lite/experimental/micro/tools/make/gen/sparkfun_edge_cortex-m4/obj/tensorflow/lite/experimental/micro/examples/micro_speech/main.o: \
+ tensorflow/lite/experimental/micro/examples/micro_speech/main.cc \
+ tensorflow/lite/experimental/micro/examples/micro_speech/audio_provider.h \
+ tensorflow/lite/c/c_api_internal.h \
+ tensorflow/lite/experimental/micro/micro_error_reporter.h \
+ tensorflow/lite/core/api/error_reporter.h \
+ tensorflow/lite/experimental/micro/compatibility.h \
+ tensorflow/lite/experimental/micro/debug_log.h \
+ tensorflow/lite/experimental/micro/debug_log_numbers.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/command_responder.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/feature_provider.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/micro_model_settings.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/micro_features/tiny_conv_micro_features_model_data.h \
+ tensorflow/lite/experimental/micro/examples/micro_speech/recognize_commands.h \
+ tensorflow/lite/experimental/micro/kernels/all_ops_resolver.h \
+ tensorflow/lite/experimental/micro/micro_mutable_op_resolver.h \
+ tensorflow/lite/core/api/op_resolver.h \
+ tensorflow/lite/schema/schema_generated.h \
+ tensorflow/lite/experimental/micro/tools/make/downloads/flatbuffers/include/flatbuffers/flatbuffers.h \
+ tensorflow/lite/experimental/micro/tools/make/downloads/flatbuffers/include/flatbuffers/base.h \
+ tensorflow/lite/experimental/micro/tools/make/downloads/flatbuffers/include/flatbuffers/stl_emulation.h \
+ tensorflow/lite/experimental/micro/micro_interpreter.h \
+ tensorflow/lite/experimental/micro/simple_tensor_allocator.h \
+ tensorflow/lite/version.h tensorflow/core/public/version.h
